@@ -11,6 +11,9 @@ public class thisKeyword {
 		   System.out.println(j);
 		   System.out.println(this.i);
 		   System.out.println(this.j);
+		   
+		  
+		   
 	}
 
 	public static void main(String[] args) {
@@ -21,7 +24,8 @@ public class thisKeyword {
 		    System.out.println(obj1);
 		   obj1.vedant();
 		   thisKeyword.vedant();
-		   vedant();     
+		   vedant();  
+//		   System.out.println(this.i);
 	}
 	
 	public static void vedant() {
