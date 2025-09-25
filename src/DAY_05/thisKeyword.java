@@ -21,10 +21,7 @@ public class thisKeyword {
 		    System.out.println(obj1);
 		   obj1.vedant();
 		   thisKeyword.vedant();
-		   vedant();
-		   
-		    
-		     
+		   vedant();     
 	}
 	
 	public static void vedant() {
@@ -35,3 +32,4 @@ public class thisKeyword {
 // this keyword :- this is keyword that stores the address of the current object . 
 // using this keyword we can access the static and non static member.
 // within the non static context [NSM]
+

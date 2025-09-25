@@ -1,4 +1,4 @@
-package DataType;
+package DAY_01;
 
 public class Datatype1 {
 
