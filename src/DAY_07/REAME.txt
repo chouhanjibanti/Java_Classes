@@ -16,7 +16,6 @@ properties can reperesent by using concept of global variable and bevavious repr
 // create userLogic class consisting three circle object  and display the area.
 
 
-
 2. 
 // write a program to create the blueprint of the bike with any three properties
 // and  two behaviours and create the userlogic class consisting three bike 
