@@ -13,7 +13,12 @@ The process of calling one constructor inside another constructor is known as co
 Super() :- process of calling one constructor inside another constructor parent class to child class that time will use super().
 
 1. super() automatically added by the compiler.
-2.  
+
+
+Method Overloading :-
+Constructor Overloading:- we can declare any number of constructor with
+the same name/ same className but different different formal argument are known as Constructor Overloading. the purpose of Constructor Overloading to create same blueprint class object in different ways.
+Example :- chair ,mobile 
 
 
 
