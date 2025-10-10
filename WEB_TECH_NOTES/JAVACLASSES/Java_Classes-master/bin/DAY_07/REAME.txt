@@ -1,0 +1,30 @@
+oops :- 
+object oriented programming 
+
+
+object oriented programming (oop) is programming paradigm
+that corelates real world object scenarios into the programming persprectives.
+
+Every object in the existence can be recongined only by their 
+features/properties/attributres or behaviourand/methods all the 
+properties can reperesent by using concept of global variable and bevavious represent by the methods.
+
+1. 
+// write a program to create the blueprint of the circle 
+// having the properties required to find the area of the 
+// circle  and behaviour area of circle that display the area of circle.
+// create userLogic class consisting three circle object  and display the area.
+
+
+2. 
+// write a program to create the blueprint of the bike with any three properties
+// and  two behaviours and create the userlogic class consisting three bike 
+// object and display theri behaviours.
+
+
+
+
+
+
+
+
