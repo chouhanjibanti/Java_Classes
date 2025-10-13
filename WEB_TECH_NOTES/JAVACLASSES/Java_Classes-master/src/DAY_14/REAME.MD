@@ -50,7 +50,10 @@ Syntax :- import packageName.fileName; -> for particular file
           
           
 Note :- import statement we should write outside the class and after the package declaration statement.
-   
+
+
+Java Fully Qualified name :- className declared with package details is known as java fully qualified name.
+ 
    
    
    

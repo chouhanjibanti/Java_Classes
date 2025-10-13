@@ -22,8 +22,5 @@ public class UserLogic_Animal_Dog {
 //		Animal obj2 = new Dog();// upCasting
 //		 Dog obj3 = ((Dog)obj2);// downCasting
 //		 obj3.talk();
-		
-		
-		
 	}
 }
