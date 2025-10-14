@@ -54,6 +54,40 @@ public :- public member can be access within any programs of any packages.
  3. A final class can not have a subclass.
  
  
+ ========================
+ 
+ 
+ public , private , protected , default 
+ 
+ 
+ private 
+ default
+ protected 
+ public 
+ 
+ 
+ - final keyword -> methods , variable , class
+ 
+ ==============================
+ 
+ 
+ classCastException :- 
+ stackOverFlowException :- 
+ Diamond problem :- 
+ Encapsulation :- 
+ Relationship :- 
+ HAS-S , IS-A[inheritance] :- 
+ C-C , C-I , I-I , I-C
+ Inheritance :- 
+ polymorphism :- 2 
+ Object and class 
+ new keyword 
+ package :- import , java fully , package packName.
+ 
+ 
+ 
+ 
+ 
  
  
  
