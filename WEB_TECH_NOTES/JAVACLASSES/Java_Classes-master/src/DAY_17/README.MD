@@ -47,6 +47,9 @@ C1---I1----I2
 The process of providing the external functionality of an application through the methods of interface by hiding the concrete implementing subclass from the userLogic class known as abstraction.
 
 
+helper method :- public  , 
+
+
 
 
 
